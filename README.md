@@ -14,7 +14,8 @@ Unlike a commercial Stream Deck, this project was designed to be a low-cost, ful
 **Features:**
 
 The features this project utilized were an ESP32 running the BLE Keyboard Arduino library to emulate a wireless keyboard. I programmed the touchscreen interface to allow users to interact with different buttons that trigger specific commands on the PC. What makes this project unique is the ability to create a fully customizable stream deck without relying on expensive hardware, while also incorporating custom hardware and enclosure design for a professional finish.
-The periphals utlized were:
+
+The peripherals utlized were:
   * ESP32 Microcontroller
   * TFT Touchscreen Display
 
