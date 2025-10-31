@@ -47,4 +47,5 @@ Cad Model:
 <img width="1049" height="716" alt="touchpadCadFile" src="https://github.com/user-attachments/assets/e90ae437-38f1-45c1-8503-37ef6e4af867" />
 
 Finished Product:
-![IMG_0307](https://github.com/user-attachments/assets/a89b19e5-d9c8-4441-aa9b-37dabc3538b5)
+![IMG_0307](https://github.com/user-attachments/assets/5fd05b62-6ec9-4fe9-b3cb-414815326d14)
+
