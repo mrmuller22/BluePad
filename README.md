@@ -1,5 +1,5 @@
 # BluePad
-<p align="center"> ** Developing V2 ** </p>
+<p align="center"> ** Currently Developing V2 ** </p>
 This repository showcases my personal project the BluePad v1.1. Inspired by the Stream Deck and to have easy access to shortcuts for my Computer.
 
 **Description:**
