@@ -31,6 +31,7 @@ The peripherals utlized were:
                   KiCad; PCB Creation
 
 Pictures of Project Design:
+<br>
 Schematic:
 <img width="1185" height="741" alt="Screenshot 2025-10-27 202051" src="https://github.com/user-attachments/assets/8d0503db-6c63-4cea-907c-16c1000e8b07" />
 
