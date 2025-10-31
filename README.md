@@ -1,4 +1,5 @@
 # BluePad
+<p align="center"> ** Developing V2 ** </p>
 This repository showcases my personal project the BluePad v1.1. Inspired by the Stream Deck and to have easy access to shortcuts for my Computer.
 
 **Description:**
@@ -48,6 +49,4 @@ Cad Model:
 
 Finished Product:
 ![IMG_0307](https://github.com/user-attachments/assets/5fd05b62-6ec9-4fe9-b3cb-414815326d14)
-
-# Come Back for V2!
 
