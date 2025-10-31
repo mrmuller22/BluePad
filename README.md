@@ -30,12 +30,13 @@ The peripherals utlized were:
                   AutoDesk Fusion360; for 3d Modeling,
                   KiCad; PCB Creation
 
-Pictures of Project Design:
+**Pictures of Project Design:**
 <br>
-Schematic:
+**Schematic:**
 <img width="1185" height="741" alt="Screenshot 2025-10-27 202051" src="https://github.com/user-attachments/assets/8d0503db-6c63-4cea-907c-16c1000e8b07" />
 
-Circuit Board:
+**Circuit Board:**
+<br>
  Front:
 <img width="3933" height="2230" alt="touchpad pcb pictures-1" src="https://github.com/user-attachments/assets/b88deffe-b39b-4a6b-88e2-94427f681392" />
 
