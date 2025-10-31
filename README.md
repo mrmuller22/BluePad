@@ -1,5 +1,5 @@
 # BluePad
-This repository showcases my personal project the BluePad. Inspired by the Stream Deck and to have easy access to shortcuts for my Computer.
+This repository showcases my personal project the BluePad v1.1. Inspired by the Stream Deck and to have easy access to shortcuts for my Computer.
 
 **Description:**
 
@@ -31,4 +31,18 @@ The peripherals utlized were:
                   KiCad; PCB Creation
 
 Pictures of Project Design:
-*In Progress*
+Schematic:
+<img width="1185" height="741" alt="Screenshot 2025-10-27 202051" src="https://github.com/user-attachments/assets/8d0503db-6c63-4cea-907c-16c1000e8b07" />
+
+Circuit Board:
+ Front:
+<img width="3933" height="2230" alt="touchpad pcb pictures-1" src="https://github.com/user-attachments/assets/b88deffe-b39b-4a6b-88e2-94427f681392" />
+
+ Back:
+<img width="4015" height="2198" alt="touchpad pcb pictures-2" src="https://github.com/user-attachments/assets/0a83060f-f7cc-4bf1-a634-b4b0354e5243" />
+
+Cad Model:
+<img width="1049" height="716" alt="touchpadCadFile" src="https://github.com/user-attachments/assets/e90ae437-38f1-45c1-8503-37ef6e4af867" />
+
+Finished Product:
+![IMG_0307](https://github.com/user-attachments/assets/a89b19e5-d9c8-4441-aa9b-37dabc3538b5)
